@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ConsoleApp1\bin\Debug\net8.0\DiagonalDifference.exe
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ConsoleApp1\bin\Debug\net8.0\DiagonalDifference.deps.json
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ConsoleApp1\bin\Debug\net8.0\DiagonalDifference.runtimeconfig.json
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ConsoleApp1\bin\Debug\net8.0\DiagonalDifference.dll
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ConsoleApp1\bin\Debug\net8.0\DiagonalDifference.pdb
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ConsoleApp1\obj\Debug\net8.0\DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ConsoleApp1\obj\Debug\net8.0\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ConsoleApp1\obj\Debug\net8.0\DiagonalDifference.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ConsoleApp1\obj\Debug\net8.0\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ConsoleApp1\obj\Debug\net8.0\DiagonalDifference.sourcelink.json
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ConsoleApp1\obj\Debug\net8.0\DiagonalDifference.dll
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ConsoleApp1\obj\Debug\net8.0\refint\DiagonalDifference.dll
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ConsoleApp1\obj\Debug\net8.0\DiagonalDifference.pdb
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ConsoleApp1\obj\Debug\net8.0\DiagonalDifference.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ConsoleApp1\obj\Debug\net8.0\ref\DiagonalDifference.dll

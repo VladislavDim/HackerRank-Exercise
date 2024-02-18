@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindMedian")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89870829dbe67d624357c43ab5fb5afc39ca85b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0803394e57d5deca95c17b04385b393f1f71830")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindMedian")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindMedian")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

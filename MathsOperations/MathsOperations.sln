@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinMaxSum", "MinMaxSum\MinM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeConversion", "TimeConversion\TimeConversion.csproj", "{3E707FC7-1C34-4224-B8AB-141B4FE43E6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMedian", "FindMedian\FindMedian.csproj", "{2759DE85-CCF0-45DC-A36A-1F80EBA287F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMedian", "FindMedian\FindMedian.csproj", "{2759DE85-CCF0-45DC-A36A-1F80EBA287F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{CC2B66F7-5093-401A-A9D0-2C2E11F3D694}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{CC2B66F7-5093-401A-A9D0-2C2E11F3D694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "ConsoleApp1\DiagonalDifference.csproj", "{3B134C1E-A3FD-424D-B972-07949D5E589A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{CC2B66F7-5093-401A-A9D0-2C2E11F3D694}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC2B66F7-5093-401A-A9D0-2C2E11F3D694}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC2B66F7-5093-401A-A9D0-2C2E11F3D694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B134C1E-A3FD-424D-B972-07949D5E589A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B134C1E-A3FD-424D-B972-07949D5E589A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B134C1E-A3FD-424D-B972-07949D5E589A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B134C1E-A3FD-424D-B972-07949D5E589A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
