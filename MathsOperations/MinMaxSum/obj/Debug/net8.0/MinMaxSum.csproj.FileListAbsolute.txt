@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\MinMaxSum\bin\Debug\net8.0\MinMaxSum.exe
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\MinMaxSum\bin\Debug\net8.0\MinMaxSum.deps.json
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\MinMaxSum\bin\Debug\net8.0\MinMaxSum.runtimeconfig.json
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\MinMaxSum\bin\Debug\net8.0\MinMaxSum.dll
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\MinMaxSum\bin\Debug\net8.0\MinMaxSum.pdb
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\MinMaxSum\obj\Debug\net8.0\MinMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\MinMaxSum\obj\Debug\net8.0\MinMaxSum.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\MinMaxSum\obj\Debug\net8.0\MinMaxSum.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\MinMaxSum\obj\Debug\net8.0\MinMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\MinMaxSum\obj\Debug\net8.0\MinMaxSum.sourcelink.json
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\MinMaxSum\obj\Debug\net8.0\MinMaxSum.dll
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\MinMaxSum\obj\Debug\net8.0\refint\MinMaxSum.dll
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\MinMaxSum\obj\Debug\net8.0\MinMaxSum.pdb
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\MinMaxSum\obj\Debug\net8.0\MinMaxSum.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\MinMaxSum\obj\Debug\net8.0\ref\MinMaxSum.dll
