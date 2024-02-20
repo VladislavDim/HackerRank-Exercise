@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LonelyInteger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0803394e57d5deca95c17b04385b393f1f71830")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+671b1eaff8a24802eb77c0cc0319777c411d0040")]
 [assembly: System.Reflection.AssemblyProductAttribute("LonelyInteger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LonelyInteger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

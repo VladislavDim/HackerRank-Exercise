@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\VladislavD\\Desktop\\HackerRank-Exercise\\MathsOperations\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF89551C-FC03-4E84-9279-A0D1645326E2}|ComparisonSorting\\ComparisonSorting.csproj|c:\\users\\vladislavd\\desktop\\hackerrank-exercise\\mathsoperations\\comparisonsorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF89551C-FC03-4E84-9279-A0D1645326E2}|ComparisonSorting\\ComparisonSorting.csproj|solutionrelative:comparisonsorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B134C1E-A3FD-424D-B972-07949D5E589A}|ConsoleApp1\\DiagonalDifference.csproj|c:\\users\\vladislavd\\desktop\\hackerrank-exercise\\mathsoperations\\consoleapp1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B134C1E-A3FD-424D-B972-07949D5E589A}|ConsoleApp1\\DiagonalDifference.csproj|solutionrelative:consoleapp1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,19 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\HackerRank-Exercise\\MathsOperations\\ComparisonSorting\\Program.cs",
+              "RelativeDocumentMoniker": "ComparisonSorting\\Program.cs",
+              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\HackerRank-Exercise\\MathsOperations\\ComparisonSorting\\Program.cs",
+              "RelativeToolTip": "ComparisonSorting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T21:44:07.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\HackerRank-Exercise\\MathsOperations\\ConsoleApp1\\StartUp.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\StartUp.cs",
               "ToolTip": "C:\\Users\\VladislavD\\Desktop\\HackerRank-Exercise\\MathsOperations\\ConsoleApp1\\StartUp.cs",
               "RelativeToolTip": "ConsoleApp1\\StartUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-18T21:14:14.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\HackerRank-Exercise\\MathsOperations\\LonelyInteger\\Program.cs",
               "RelativeDocumentMoniker": "LonelyInteger\\Program.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "LonelyInteger\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T20:43:11.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-18T20:43:11.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\HackerRank-Exercise\\MathsOperations\\FindMedian\\Program.cs",
               "RelativeDocumentMoniker": "FindMedian\\Program.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\HackerRank-Exercise\\MathsOperations\\TimeConversion\\Program.cs",
               "RelativeDocumentMoniker": "TimeConversion\\Program.cs",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\HackerRank-Exercise\\MathsOperations\\MinMaxSum\\Program.cs",
               "RelativeDocumentMoniker": "MinMaxSum\\Program.cs",
@@ -100,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\HackerRank-Exercise\\MathsOperations\\PlusMinus\\Program.cs",
               "RelativeDocumentMoniker": "PlusMinus\\Program.cs",

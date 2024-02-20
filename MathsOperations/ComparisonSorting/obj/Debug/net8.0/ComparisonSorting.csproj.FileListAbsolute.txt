@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ComparisonSorting\bin\Debug\net8.0\ComparisonSorting.exe
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ComparisonSorting\bin\Debug\net8.0\ComparisonSorting.deps.json
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ComparisonSorting\bin\Debug\net8.0\ComparisonSorting.runtimeconfig.json
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ComparisonSorting\bin\Debug\net8.0\ComparisonSorting.dll
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ComparisonSorting\bin\Debug\net8.0\ComparisonSorting.pdb
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ComparisonSorting\obj\Debug\net8.0\ComparisonSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ComparisonSorting\obj\Debug\net8.0\ComparisonSorting.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ComparisonSorting\obj\Debug\net8.0\ComparisonSorting.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ComparisonSorting\obj\Debug\net8.0\ComparisonSorting.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ComparisonSorting\obj\Debug\net8.0\ComparisonSorting.sourcelink.json
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ComparisonSorting\obj\Debug\net8.0\ComparisonSorting.dll
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ComparisonSorting\obj\Debug\net8.0\refint\ComparisonSorting.dll
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ComparisonSorting\obj\Debug\net8.0\ComparisonSorting.pdb
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ComparisonSorting\obj\Debug\net8.0\ComparisonSorting.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\HackerRank-Exercise\MathsOperations\ComparisonSorting\obj\Debug\net8.0\ref\ComparisonSorting.dll
